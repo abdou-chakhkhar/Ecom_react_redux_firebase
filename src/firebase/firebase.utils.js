@@ -11,6 +11,13 @@ const config = {
   storageBucket: 'crwn-db.appspot.com',
   messagingSenderId: '850995411664',
   appId: '1:850995411664:web:7ddc01d597846f65'
+  // apiKey: "AIzaSyBV2zU3NxTVsVyI2nJCAf8gZlQknAHCD9g",
+  // authDomain: "ecomreact-dcb3c.firebaseapp.com",
+  // projectId: "ecomreact-dcb3c",
+  // storageBucket: "ecomreact-dcb3c.appspot.com",
+  // messagingSenderId: "106053040458",
+  // appId: "1:106053040458:web:24bf7c91afa7c6fab4e9b3",
+  // measurementId: "G-W040XTXMJK"
 };
 
 firebase.initializeApp(config);
